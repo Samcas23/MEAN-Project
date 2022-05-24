@@ -1,2 +1,2 @@
 # MEAN-Project.
-This will be my MEAN project.
+This will be my MEAN portfolio project.
